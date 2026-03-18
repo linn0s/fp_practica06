@@ -1,1 +1,0 @@
-# fp_practica06
